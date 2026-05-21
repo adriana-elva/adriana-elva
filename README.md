@@ -17,8 +17,8 @@ Com 3 anos de experiência no mercado, adoro transformar problemas complexos em 
 ### 📊 Minhas Estatísticas
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=adriana-elva&show_icons=true&theme=radial&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriana-elva&layout=compact&theme=radial" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adriana-elva&show_icons=true&theme=radial" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adriana-elva&layout=compact&theme=radial" />
 </p>
 
 
