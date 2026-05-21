@@ -7,6 +7,13 @@ Com 3 anos de experiência no mercado, adoro transformar problemas complexos em 
 - 🌱 Estou aprimorando meu inglês (foco no nível conversacional) e estudando arquitetura de sistemas.
 - 💬 Pergunte-me sobre: OutSystems, SQL, JavaScript ou metodologias ágeis.
 
+### 🛠️ Tecnologias e Ferramentas
+
+![OutSystems](https://img.shields.io/badge/OutSystems-004B87?style=for-the-badge&logo=outsystems&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
 ### 📊 Minhas Estatísticas
 
 <p align="left">
@@ -14,12 +21,8 @@ Com 3 anos de experiência no mercado, adoro transformar problemas complexos em 
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriana-elva&layout=compact&theme=radial" />
 </p>
 
-### 🛠️ Tecnologias e Ferramentas
 
-![OutSystems](https://img.shields.io/badge/OutSystems-004B87?style=for-the-badge&logo=outsystems&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
 
 <!--
 **adriana-elva/adriana-elva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
